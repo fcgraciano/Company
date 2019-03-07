@@ -6,7 +6,7 @@ const ItemPortifolio = props =>{
             <div className='col-sm-4'>
         <div className='thumbnail'>
             <img src={props.imagem} alt='imagem' width='400' height='300' />
-            
+            vamos
             <p><strong>{props.titulo}</strong></p>
             <p>{props.descricao}</p>
         </div>
