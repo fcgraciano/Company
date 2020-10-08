@@ -28,7 +28,7 @@ class Portifolio extends Component {
         return (
             <div id='portfolio' className='container-fluid text-center bg-grey'>
                 <h2>Portfolio</h2><br />
-             
+             <div>Se colocar um novo elemento aqui pode colaborar com o projeto</div>
                 <div className='row text-center '>
                    {
                        
